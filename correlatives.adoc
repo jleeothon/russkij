@@ -1,0 +1,52 @@
+= Correlatives
+
+Object::
++
+|===
+h| what | что
+h| this | э́то
+h| all | всё
+h| nothing | ничто́, (Nom., Acc.) ничего́
+|===
+
+Person::
++
+|===
+h| who | кто
+h| to whom | кому́
+|===
+
+Time::
++
+|===
+h| when | когда́
+h| then | тогда́
+h| always | всегда́
+h| never | никогда́
+|===
+
+Place::
++
+|===
+h| where | где
+h| here  | здесь
+h| there | там
+h| whereto | куда́
+h| nowhere | нигде́
+|===
+
+Manner::
++
+|===
+h| how | как
+h| which type | како́й
+h| such / so | тако́й
+|===
+
+Amount::
++
+|===
+h| how many/much | ско́лко
+h| this much | сто́лько
+h| only | то́лько
+|===

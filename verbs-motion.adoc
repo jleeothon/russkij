@@ -1,0 +1,40 @@
+= Verbs of motion
+
+== Concepts
+
+Abstract verb::
++
+* a verb with multidirectional or indirect motion;
+* can be iterative;
+* is always imperfective.
+
+Concrete verb::
++
+* a verb with unidirectional motion;
+* is a single action;
+* may be perfective or imperfective.
+
+== Verbs
+
+According to the tense that they can be used:
+
+|===
+| Present  | Past  | Future | Meaning
+
+| идти́ |  ходи́ть | пойти́ | _to walk_
+| е́хать |  е́здить | пое́хать |  _to travel_
+|===
+
+=== идти́
+
+_to walk, to go_
+
+Used in present: to walk somewhere.
+
+=== _ходи́ть_ and _езди́ть_
+
+ходить: to walk.
+
+ездить: to travel.
+
+Used in the past: to say where one has been.

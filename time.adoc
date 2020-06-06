@@ -1,0 +1,28 @@
+= Time
+
+Today, before, and after:
+
+|===
+| | Meaning | Notes
+
+h| сего́дня | today | Like _сей_ + _день_
+h| вчера́ | yesterday | Fossilised genitive of _вечер_
+h| за́втра | tomorrow |
+h| послеза́втра | the day after tomorrow | за + утро
+h| позавчера́ | the day before yesterday | по + за + вчера
+|===
+
+Parts of the day:
+
+у́тро:: morning
+ве́чер:: evening
+
+Instrumental singulars are used for adverbs of iteration:
+
+днём:: during the day
+у́тром:: in the mornings
+ве́чером:: in the evenings
+
+Other:
+
+год:: year. Note: _два **го́да**_, _пять **лет**_.
